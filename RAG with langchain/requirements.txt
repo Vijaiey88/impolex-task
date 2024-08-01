@@ -1,2 +1,4 @@
+PyMuPDF==1.21.0
 langchain
-langchain-community
+langchain-google-vertexai
+langchain-openai
